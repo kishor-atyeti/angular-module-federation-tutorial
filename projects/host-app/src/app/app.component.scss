@@ -1,0 +1,10 @@
+.menu-bar {
+  list-style-type: none; // Remove bullets
+  padding: 0; // Remove padding
+  margin: 0; // Remove margin
+
+  li {
+    display: inline-block; // Display list items in a row
+    margin-right: 10px; // Add space between items
+  }
+}
